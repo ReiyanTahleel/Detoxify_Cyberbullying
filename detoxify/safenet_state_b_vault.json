@@ -1,0 +1,86 @@
+[
+    {
+        "evidence_id": "ev_f64dc810a9",
+        "timestamp": "2026-10-18T00:10:23.327988",
+        "retention_policy": "LOCAL_ENCRYPTED_RETENTION_ONLY",
+        "encrypted_payload": "AES256_ENC::f56c548ac7fcbfb4::eyJzZXNzaW9uX2lkIjogInNlc3NfMjgwZWZhMjAiLCAiZmxhZ2dlZF9tZXNzYWdlIjogInlvdSBpZGlvdCBpIHdpbGwgbWVldCB5b3UgYWZ0ZXIgdGhlIGNsYXNzICIsICJzdXJyb3VuZGluZ19jb250ZXh0X3dpbmRvdyI6IFt7InRpbWUiOiAiMDA6MDg6NTMiLCAidGV4dCI6ICJoZWxsbyBob3cgYXJlIHlvdS4uLi4uISJ9LCB7InRpbWUiOiAiMDA6MDk6NDMiLCAidGV4dCI6ICJpIHdpbGwgc2VlIHlvdSBhZnRlciB0aGUgY2xhc3MuLiJ9LCB7InRpbWUiOiAiMDA6MTA6MjMiLCAidGV4dCI6ICJ5b3UgaWRpb3QgaSB3aWxsIG1lZXQgeW91IGFmdGVyIHRoZSBjbGFzcyAifV19",
+        "readable_preview_for_demo": {
+            "session_id": "sess_280efa20",
+            "flagged_message": "you idiot i will meet you after the class ",
+            "surrounding_context_window": [
+                {
+                    "time": "00:08:53",
+                    "text": "hello how are you.....!"
+                },
+                {
+                    "time": "00:09:43",
+                    "text": "i will see you after the class.."
+                },
+                {
+                    "time": "00:10:23",
+                    "text": "you idiot i will meet you after the class "
+                }
+            ]
+        }
+    },
+    {
+        "evidence_id": "ev_a760c4d934",
+        "timestamp": "2026-10-18T00:11:10.915086",
+        "retention_policy": "LOCAL_ENCRYPTED_RETENTION_ONLY",
+        "encrypted_payload": "AES256_ENC::dda2dc0cd5443b90::eyJzZXNzaW9uX2lkIjogInNlc3NfMjgwZWZhMjAiLCAiZmxhZ2dlZF9tZXNzYWdlIjogIllvdSBhcmUgYSBkaXNndXN0aW5nIGxvc2VyIGFuZCBub2JvZHkgd2FudHMgeW91IGhlcmUiLCAic3Vycm91bmRpbmdfY29udGV4dF93aW5kb3ciOiBbeyJ0aW1lIjogIjAwOjA4OjUzIiwgInRleHQiOiAiaGVsbG8gaG93IGFyZSB5b3UuLi4uLiEifSwgeyJ0aW1lIjogIjAwOjA5OjQzIiwgInRleHQiOiAiaSB3aWxsIHNlZSB5b3UgYWZ0ZXIgdGhlIGNsYXNzLi4ifSwgeyJ0aW1lIjogIjAwOjEwOjIzIiwgInRleHQiOiAieW91IGlkaW90IGkgd2lsbCBtZWV0IHlvdSBhZnRlciB0aGUgY2xhc3MgIn0sIHsidGltZSI6ICIwMDoxMToxMCIsICJ0ZXh0IjogIllvdSBhcmUgYSBkaXNndXN0aW5nIGxvc2VyIGFuZCBub2JvZHkgd2FudHMgeW91IGhlcmUifV19",
+        "readable_preview_for_demo": {
+            "session_id": "sess_280efa20",
+            "flagged_message": "You are a disgusting loser and nobody wants you here",
+            "surrounding_context_window": [
+                {
+                    "time": "00:08:53",
+                    "text": "hello how are you.....!"
+                },
+                {
+                    "time": "00:09:43",
+                    "text": "i will see you after the class.."
+                },
+                {
+                    "time": "00:10:23",
+                    "text": "you idiot i will meet you after the class "
+                },
+                {
+                    "time": "00:11:10",
+                    "text": "You are a disgusting loser and nobody wants you here"
+                }
+            ]
+        }
+    },
+    {
+        "evidence_id": "ev_8f6eb31784",
+        "timestamp": "2026-10-18T00:11:28.454122",
+        "retention_policy": "LOCAL_ENCRYPTED_RETENTION_ONLY",
+        "encrypted_payload": "AES256_ENC::d2709dfa417e0ec4::eyJzZXNzaW9uX2lkIjogInNlc3NfMjgwZWZhMjAiLCAiZmxhZ2dlZF9tZXNzYWdlIjogIkkgYW0gZ29pbmcgdG8gZmluZCB5b3UgYWZ0ZXIgY2xhc3MgYW5kIGJlYXQgeW91IHVwIiwgInN1cnJvdW5kaW5nX2NvbnRleHRfd2luZG93IjogW3sidGltZSI6ICIwMDowODo1MyIsICJ0ZXh0IjogImhlbGxvIGhvdyBhcmUgeW91Li4uLi4hIn0sIHsidGltZSI6ICIwMDowOTo0MyIsICJ0ZXh0IjogImkgd2lsbCBzZWUgeW91IGFmdGVyIHRoZSBjbGFzcy4uIn0sIHsidGltZSI6ICIwMDoxMDoyMyIsICJ0ZXh0IjogInlvdSBpZGlvdCBpIHdpbGwgbWVldCB5b3UgYWZ0ZXIgdGhlIGNsYXNzICJ9LCB7InRpbWUiOiAiMDA6MTE6MTAiLCAidGV4dCI6ICJZb3UgYXJlIGEgZGlzZ3VzdGluZyBsb3NlciBhbmQgbm9ib2R5IHdhbnRzIHlvdSBoZXJlIn0sIHsidGltZSI6ICIwMDoxMToyOCIsICJ0ZXh0IjogIkkgYW0gZ29pbmcgdG8gZmluZCB5b3UgYWZ0ZXIgY2xhc3MgYW5kIGJlYXQgeW91IHVwIn1dfQ==",
+        "readable_preview_for_demo": {
+            "session_id": "sess_280efa20",
+            "flagged_message": "I am going to find you after class and beat you up",
+            "surrounding_context_window": [
+                {
+                    "time": "00:08:53",
+                    "text": "hello how are you.....!"
+                },
+                {
+                    "time": "00:09:43",
+                    "text": "i will see you after the class.."
+                },
+                {
+                    "time": "00:10:23",
+                    "text": "you idiot i will meet you after the class "
+                },
+                {
+                    "time": "00:11:10",
+                    "text": "You are a disgusting loser and nobody wants you here"
+                },
+                {
+                    "time": "00:11:28",
+                    "text": "I am going to find you after class and beat you up"
+                }
+            ]
+        }
+    }
+]

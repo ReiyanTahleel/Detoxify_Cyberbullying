@@ -1,0 +1,59 @@
+[
+    {
+        "event_id": "evt_1c087ab998",
+        "session_id": "sess_280efa20",
+        "timestamp": "2026-10-18T00:10:23.327988",
+        "status": "RISK_DETECTED",
+        "safety_state": "CRITICAL",
+        "primary_category": "INSULT",
+        "risk_probability": 0.9965,
+        "layer1_feature_vector": {
+            "toxicity": 0.9963,
+            "severe_toxicity": 0.0003,
+            "obscene": 0.0031,
+            "identity_attack": 0.0013,
+            "insult": 0.9965,
+            "threat": 0.001,
+            "sexual_explicit": 0.0008
+        },
+        "evidence_reference_id": "ev_f64dc810a9"
+    },
+    {
+        "event_id": "evt_4af37ba2d0",
+        "session_id": "sess_280efa20",
+        "timestamp": "2026-10-18T00:11:10.915086",
+        "status": "RISK_DETECTED",
+        "safety_state": "CRITICAL",
+        "primary_category": "INSULT",
+        "risk_probability": 0.9964,
+        "layer1_feature_vector": {
+            "toxicity": 0.9963,
+            "severe_toxicity": 0.0003,
+            "obscene": 0.002,
+            "identity_attack": 0.0011,
+            "insult": 0.9964,
+            "threat": 0.0013,
+            "sexual_explicit": 0.0008
+        },
+        "evidence_reference_id": "ev_a760c4d934"
+    },
+    {
+        "event_id": "evt_e9a9425492",
+        "session_id": "sess_280efa20",
+        "timestamp": "2026-10-18T00:11:28.454122",
+        "status": "RISK_DETECTED",
+        "safety_state": "ELEVATED",
+        "primary_category": "THREAT",
+        "risk_probability": 0.5978,
+        "layer1_feature_vector": {
+            "toxicity": 0.5855,
+            "severe_toxicity": 0.0002,
+            "obscene": 0.0008,
+            "identity_attack": 0.0034,
+            "insult": 0.006,
+            "threat": 0.5978,
+            "sexual_explicit": 0.0013
+        },
+        "evidence_reference_id": "ev_8f6eb31784"
+    }
+]
